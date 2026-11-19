@@ -72,7 +72,7 @@ _ReSharper*/
 *.DotSettings.user
 
 ############################################
-# Forge SDK - Keep dependencies
+# Forge SDK - keep
 ############################################
 
 !Forge/
@@ -83,3 +83,23 @@ _ReSharper*/
 !Forge/**/*.pdb
 !Forge/**/*.h
 !Forge/**/*.hpp
+
+############################################
+# Surface Label Data and Images - keep
+############################################
+
+!x64/
+!x64/Debug/
+
+!x64/Debug/data/
+!x64/Debug/data/**
+
+!x64/Debug/images/
+!x64/Debug/images/**
+
+!x64/Release/
+!x64/Release/data/
+!x64/Release/data/**
+
+!x64/Release/images/
+!x64/Release/images/**
