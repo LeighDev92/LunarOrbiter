@@ -1,0 +1,2141 @@
+{
+  "metadata": {
+    "schema_version": "2.0",
+    "coordinate_system": "Selenographic latitude and longitude in degrees",
+    "priority_scale": {
+      "minimum": 1,
+      "maximum": 20,
+      "meaning": "1 is always eligible for display; 20 is shown only at the closest zoom levels",
+      "note": "Priority is a label-density/zoom-culling rank, not scientific importance."
+    },
+    "image_note": "image.filename is relative to the Images directory. Keep the Images folder beside this JSON. Failed downloads are marked with download_error."
+  },
+  "craters": [
+    {
+      "name": "Tycho",
+      "latitude": -43.31,
+      "longitude": -11.36,
+      "diameter_km": 85,
+      "type": "Impact Crater",
+      "priority": 2,
+      "description": "A prominent, relatively young impact crater known for its bright ray system, which extends across much of the lunar surface. Its terraced walls and central peak are especially striking.",
+      "image": {
+        "alt": "Lunar surface view associated with Tycho",
+        "credit": "NASA",
+        "filename": "Tycho.jpg"
+      }
+    },
+    {
+      "name": "Copernicus",
+      "latitude": 9.62,
+      "longitude": -20.08,
+      "diameter_km": 93,
+      "type": "Impact Crater",
+      "priority": 2,
+      "description": "A large, relatively young impact crater with terraced walls, a central mountain complex, and an extensive system of bright ejecta rays.",
+      "image": {
+        "alt": "Lunar surface view associated with Copernicus",
+        "credit": "NASA",
+        "filename": "Copernicus.jpg"
+      }
+    },
+    {
+      "name": "Aristarchus",
+      "latitude": 23.73,
+      "longitude": -47.4,
+      "diameter_km": 40,
+      "type": "Impact Crater",
+      "priority": 3,
+      "description": "One of the brightest large craters on the Moon. It lies on the Aristarchus Plateau and is surrounded by bright ejecta.",
+      "image": {
+        "alt": "Lunar surface view associated with Aristarchus",
+        "credit": "NASA",
+        "filename": "Aristarchus.jpg"
+      }
+    },
+    {
+      "name": "Plato",
+      "latitude": 51.62,
+      "longitude": -9.37,
+      "diameter_km": 101,
+      "type": "Impact Crater",
+      "priority": 3,
+      "description": "A distinctive crater with a relatively dark, smooth basalt-covered floor that contrasts with the surrounding highlands.",
+      "image": {
+        "alt": "Lunar surface view associated with Plato",
+        "credit": "NASA",
+        "filename": "Plato.jpg"
+      }
+    },
+    {
+      "name": "Clavius",
+      "latitude": -58.4,
+      "longitude": -14.4,
+      "diameter_km": 231,
+      "type": "Impact Crater",
+      "priority": 2,
+      "description": "One of the largest craters on the near side. Its eroded rim and chain of overlapping craters record a long history of impacts.",
+      "image": {
+        "alt": "Lunar surface view associated with Clavius",
+        "credit": "NASA",
+        "filename": "Clavius.jpg"
+      }
+    },
+    {
+      "name": "Kepler",
+      "latitude": 8.1,
+      "longitude": -38.0,
+      "diameter_km": 32,
+      "type": "Impact Crater",
+      "priority": 5,
+      "description": "A relatively young crater with bright rays and a rugged ejecta blanket extending across Oceanus Procellarum.",
+      "image": {
+        "alt": "Lunar surface view associated with Kepler",
+        "credit": "NASA",
+        "filename": "Kepler.jpg"
+      }
+    },
+    {
+      "name": "Grimaldi",
+      "latitude": -5.2,
+      "longitude": -68.3,
+      "diameter_km": 173,
+      "type": "Impact Crater",
+      "priority": 4,
+      "description": "An ancient impact structure with a dark basaltic floor near the western limb.",
+      "image": {
+        "alt": "Lunar surface view associated with Harkhebi",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Grimaldi.jpg"
+      }
+    },
+    {
+      "name": "Schickard",
+      "latitude": -44.36,
+      "longitude": -54.63,
+      "diameter_km": 227,
+      "type": "Impact Crater",
+      "priority": 4,
+      "description": "A large ancient crater in the southwestern highlands. Its floor contains dark deposits and numerous smaller craters.",
+      "image": {
+        "alt": "Lunar surface view associated with Harkhebi",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Schickard.jpg"
+      }
+    },
+    {
+      "name": "Aristoteles",
+      "latitude": 50.17,
+      "longitude": 17.3,
+      "diameter_km": 87,
+      "type": "Impact Crater",
+      "priority": 5,
+      "description": "A prominent northern crater with terraced inner walls and a rugged floor.",
+      "image": {
+        "alt": "Lunar surface view associated with Harkhebi",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Aristoteles.jpg"
+      }
+    },
+    {
+      "name": "Theophilus",
+      "latitude": -11.4,
+      "longitude": 26.4,
+      "diameter_km": 100,
+      "type": "Impact Crater",
+      "priority": 3,
+      "description": "A well-preserved crater with a central mountain complex and terraced walls. It partly overlaps the older crater Cyrillus.",
+      "image": {
+        "alt": "Lunar surface view associated with Harkhebi",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Theophilus.jpg"
+      }
+    },
+    {
+      "name": "Ptolemaeus",
+      "latitude": -9.2,
+      "longitude": -1.8,
+      "diameter_km": 153,
+      "type": "Impact Crater",
+      "priority": 3,
+      "description": "A large, ancient walled plain with a relatively level floor marked by many small craterlets.",
+      "image": {
+        "alt": "Lunar surface view associated with Harkhebi",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Ptolemaeus.jpg"
+      }
+    },
+    {
+      "name": "Alphonsus",
+      "latitude": -13.4,
+      "longitude": -2.8,
+      "diameter_km": 119,
+      "type": "Impact Crater",
+      "priority": 5,
+      "description": "An ancient crater between Ptolemaeus and Arzachel, notable for dark-halo deposits and volcanic features.",
+      "image": {
+        "alt": "Lunar surface view associated with Harkhebi",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Alphonsus.jpg"
+      }
+    },
+    {
+      "name": "Arzachel",
+      "latitude": -18.2,
+      "longitude": -1.9,
+      "diameter_km": 96,
+      "type": "Impact Crater",
+      "priority": 5,
+      "description": "A well-defined crater south of Alphonsus with terraced walls and a prominent central peak.",
+      "image": {
+        "alt": "Lunar surface view associated with Harkhebi",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Arzachel.jpg"
+      }
+    },
+    {
+      "name": "Gassendi",
+      "latitude": -17.5,
+      "longitude": -39.9,
+      "diameter_km": 110,
+      "type": "Impact Crater",
+      "priority": 5,
+      "description": "A complex crater on the northern edge of Mare Humorum, with a fractured floor and central peaks.",
+      "image": {
+        "alt": "Lunar surface view associated with Gassendi",
+        "credit": "WIKIMEDIA COMMONS",
+        "filename": "Gassendi.png"
+      }
+    },
+    {
+      "name": "Langrenus",
+      "latitude": -8.9,
+      "longitude": 60.9,
+      "diameter_km": 132,
+      "type": "Impact Crater",
+      "priority": 4,
+      "description": "A prominent eastern near-side crater with a rugged central peak complex and terraced walls.",
+      "image": {
+        "alt": "Lunar surface view associated with Langrenus",
+        "credit": "WIKIMEDIA COMMONS",
+        "filename": "Langrenus.jpg"
+      }
+    },
+    {
+      "name": "Petavius",
+      "latitude": -25.3,
+      "longitude": 60.4,
+      "diameter_km": 177,
+      "type": "Impact Crater",
+      "priority": 4,
+      "description": "A large crater with a fractured floor and a prominent rille extending from its central mountain.",
+      "image": {
+        "alt": "Lunar surface view associated with Petavius",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Petavius.jpg"
+      }
+    },
+    {
+      "name": "Piccolomini",
+      "latitude": -29.7,
+      "longitude": 32.2,
+      "diameter_km": 88,
+      "type": "Impact Crater",
+      "priority": 7,
+      "description": "A southern highlands crater with a well-preserved rim and central peak.",
+      "image": {
+        "alt": "Lunar surface view associated with Piccolomini",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Piccolomini.jpg"
+      }
+    },
+    {
+      "name": "Endymion",
+      "latitude": 53.6,
+      "longitude": 56.5,
+      "diameter_km": 125,
+      "type": "Impact Crater",
+      "priority": 6,
+      "description": "A large northern crater with a dark, relatively smooth floor.",
+      "image": {
+        "alt": "Lunar surface view associated with Endymion",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Endymion.jpg"
+      }
+    },
+    {
+      "name": "Posidonius",
+      "latitude": 31.8,
+      "longitude": 29.9,
+      "diameter_km": 95,
+      "type": "Impact Crater",
+      "priority": 6,
+      "description": "A crater on the northeastern edge of Mare Serenitatis, with a fractured floor and complex interior features.",
+      "image": {
+        "alt": "Lunar surface view associated with Posidonius",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Posidonius.jpg"
+      }
+    },
+    {
+      "name": "Plinius",
+      "latitude": 15.3,
+      "longitude": 23.7,
+      "diameter_km": 43,
+      "type": "Impact Crater",
+      "priority": 7,
+      "description": "A sharp-rimmed crater between Mare Serenitatis and Mare Tranquillitatis.",
+      "image": {
+        "alt": "Lunar surface view associated with Plinius",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Plinius.jpg"
+      }
+    },
+    {
+      "name": "Thebit",
+      "latitude": -22.0,
+      "longitude": -4.0,
+      "diameter_km": 57,
+      "type": "Impact Crater",
+      "priority": 8,
+      "description": "A crater in the southern highlands, near the Straight Wall region.",
+      "image": {
+        "alt": "Lunar surface view associated with Thebit",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Thebit.jpg"
+      }
+    },
+    {
+      "name": "Wargentin",
+      "latitude": -49.6,
+      "longitude": -60.2,
+      "diameter_km": 84,
+      "type": "Flooded Crater",
+      "priority": 8,
+      "description": "An unusual crater whose interior was filled nearly to the rim by lava, leaving a raised, flat-topped plateau.",
+      "image": {
+        "alt": "Lunar surface view associated with Wargentin",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Wargentin.jpg"
+      }
+    },
+    {
+      "name": "Schiller",
+      "latitude": -51.8,
+      "longitude": -39.0,
+      "diameter_km": 179,
+      "type": "Impact Crater",
+      "priority": 6,
+      "description": "An elongated crater in the southwestern region, likely formed by a low-angle impact or overlapping impacts.",
+      "image": {
+        "alt": "Lunar surface view associated with Schiller",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Schiller.jpg"
+      }
+    },
+    {
+      "name": "Bailly",
+      "latitude": -66.8,
+      "longitude": -69.3,
+      "diameter_km": 303,
+      "type": "Impact Crater",
+      "priority": 5,
+      "description": "A huge, heavily degraded walled plain near the southwestern limb.",
+      "image": {
+        "alt": "Lunar surface view associated with Bailly",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Bailly.jpg"
+      }
+    },
+    {
+      "name": "Humboldt",
+      "latitude": -27.0,
+      "longitude": 80.9,
+      "diameter_km": 207,
+      "type": "Impact Crater",
+      "priority": 6,
+      "description": "A large eastern-limb crater with a complex floor containing fractures and volcanic deposits.",
+      "image": {
+        "alt": "Lunar surface view associated with Humboldt",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Humboldt.jpg"
+      }
+    },
+    {
+      "name": "Hercules",
+      "latitude": 46.7,
+      "longitude": 39.1,
+      "diameter_km": 69,
+      "type": "Impact Crater",
+      "priority": 7,
+      "description": "A northern crater with a dark, lava-flooded floor and a smaller crater within it.",
+      "image": {
+        "alt": "Lunar surface view associated with Hercules",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Hercules.jpg"
+      }
+    },
+    {
+      "name": "Atlas",
+      "latitude": 46.7,
+      "longitude": 44.4,
+      "diameter_km": 87,
+      "type": "Impact Crater",
+      "priority": 7,
+      "description": "A northern crater with a fractured floor and unusual dark deposits.",
+      "image": {
+        "alt": "Lunar surface view associated with Atlas",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Atlas.jpg"
+      }
+    },
+    {
+      "name": "Posidonius A",
+      "latitude": 31.8,
+      "longitude": 28.8,
+      "diameter_km": 11,
+      "type": "Satellite Crater",
+      "priority": 14,
+      "description": "A small satellite crater near Posidonius, useful as a higher-zoom landmark.",
+      "image": {
+        "alt": "Lunar surface view associated with Posidonius A",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Posidonius_A.jpg"
+      }
+    },
+    {
+      "name": "Moltke",
+      "latitude": 0.6,
+      "longitude": 24.2,
+      "diameter_km": 6,
+      "type": "Impact Crater",
+      "priority": 13,
+      "description": "A small, sharp-rimmed crater near the Apollo 11 landing region.",
+      "image": {
+        "alt": "Lunar surface view associated with Moltke",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Moltke.jpg"
+      }
+    },
+    {
+      "name": "Hind",
+      "latitude": -7.9,
+      "longitude": 7.7,
+      "diameter_km": 4,
+      "type": "Impact Crater",
+      "priority": 16,
+      "description": "A small crater in the southern central highlands.",
+      "image": {
+        "alt": "Lunar surface view associated with Hind",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Hind.jpg"
+      }
+    },
+    {
+      "name": "Dionysius",
+      "latitude": 2.8,
+      "longitude": 17.3,
+      "diameter_km": 18,
+      "type": "Impact Crater",
+      "priority": 10,
+      "description": "A bright-rayed crater near the western edge of Mare Tranquillitatis.",
+      "image": {
+        "alt": "Lunar surface view associated with Dionysius",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Dionysius.jpg"
+      }
+    },
+    {
+      "name": "Censorinus",
+      "latitude": -0.4,
+      "longitude": 32.7,
+      "diameter_km": 3.8,
+      "type": "Impact Crater",
+      "priority": 16,
+      "description": "A small, bright crater east of the Apollo 11 region.",
+      "image": {
+        "alt": "Lunar surface view associated with Censorinus",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Censorinus.jpg"
+      }
+    },
+    {
+      "name": "Messier",
+      "latitude": -1.9,
+      "longitude": 47.6,
+      "diameter_km": 11,
+      "type": "Impact Crater",
+      "priority": 12,
+      "description": "An elongated crater pair in Mare Fecunditatis, associated with unusual ejecta patterns.",
+      "image": {
+        "alt": "Lunar surface view associated with Messier",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Messier.jpg"
+      }
+    },
+    {
+      "name": "Messier A",
+      "latitude": -1.9,
+      "longitude": 46.8,
+      "diameter_km": 11,
+      "type": "Impact Crater",
+      "priority": 14,
+      "description": "A companion crater near Messier, forming a distinctive paired impact feature.",
+      "image": {
+        "alt": "Lunar surface view associated with Messier A",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Messier_A.jpg"
+      }
+    },
+    {
+      "name": "Proclus",
+      "latitude": 16.1,
+      "longitude": 46.8,
+      "diameter_km": 28,
+      "type": "Impact Crater",
+      "priority": 8,
+      "description": "A bright-rayed crater near the western edge of Mare Crisium.",
+      "image": {
+        "alt": "Lunar surface view associated with Proclus",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Proclus.jpg"
+      }
+    },
+    {
+      "name": "Cleomedes",
+      "latitude": 27.7,
+      "longitude": 55.5,
+      "diameter_km": 126,
+      "type": "Impact Crater",
+      "priority": 6,
+      "description": "A large northern crater with a complex floor and several smaller interior craters.",
+      "image": {
+        "alt": "Lunar surface view associated with Cleomedes",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Cleomedes.jpg"
+      }
+    },
+    {
+      "name": "Janssen",
+      "latitude": -44.9,
+      "longitude": 40.8,
+      "diameter_km": 190,
+      "type": "Impact Crater",
+      "priority": 5,
+      "description": "A very old, degraded crater in the southeastern highlands, crossed by younger impact structures.",
+      "image": {
+        "alt": "Lunar surface view associated with Janssen",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Janssen.jpg"
+      }
+    },
+    {
+      "name": "Rheita",
+      "latitude": -37.1,
+      "longitude": 47.2,
+      "diameter_km": 70,
+      "type": "Impact Crater",
+      "priority": 8,
+      "description": "A southern highlands crater near the prominent Vallis Rheita valley.",
+      "image": {
+        "alt": "Lunar surface view associated with Rheita",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Rheita.jpg"
+      }
+    },
+    {
+      "name": "Schomberger",
+      "latitude": -76.0,
+      "longitude": 24.7,
+      "diameter_km": 85,
+      "type": "Impact Crater",
+      "priority": 8,
+      "description": "A southern polar-region crater with a rugged rim and heavily cratered surroundings.",
+      "image": {
+        "alt": "Lunar surface view associated with Schomberger",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Schomberger.jpg"
+      }
+    },
+    {
+      "name": "Cabeus",
+      "latitude": -85.3,
+      "longitude": -35.5,
+      "diameter_km": 98,
+      "type": "Polar Crater",
+      "priority": 5,
+      "description": "A crater near the lunar south pole whose permanently shadowed regions have been investigated for water ice.",
+      "image": {
+        "alt": "Lunar surface view associated with Cabeus",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Cabeus.jpg"
+      }
+    },
+    {
+      "name": "Shackleton",
+      "latitude": -89.9,
+      "longitude": 0.0,
+      "diameter_km": 21,
+      "type": "Polar Crater",
+      "priority": 3,
+      "description": "A crater at the lunar south pole. Parts of its interior are permanently shadowed, while portions of its rim receive prolonged sunlight.",
+      "image": {
+        "alt": "Lunar surface view associated with Shackleton",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Shackleton.jpg"
+      }
+    },
+    {
+      "name": "Amundsen",
+      "latitude": -84.5,
+      "longitude": 82.8,
+      "diameter_km": 103,
+      "type": "Polar Crater",
+      "priority": 6,
+      "description": "A large crater near the south pole with a rugged interior and permanently shadowed terrain nearby.",
+      "image": {
+        "alt": "Lunar surface view associated with Amundsen",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Amundsen.jpg"
+      }
+    },
+    {
+      "name": "Tsiolkovskiy",
+      "latitude": -20.4,
+      "longitude": 129.1,
+      "diameter_km": 185,
+      "type": "Impact Crater",
+      "priority": 2,
+      "image": {
+        "alt": "Lunar surface view associated with Tsiolkovskiy",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Tsiolkovskiy.jpg"
+      },
+      "description": "A striking far-side crater with a dark, relatively smooth floor and a prominent central peak complex."
+    },
+    {
+      "name": "Korolev",
+      "latitude": -4.4,
+      "longitude": -157.4,
+      "diameter_km": 437,
+      "type": "Impact Crater",
+      "priority": 2,
+      "image": {
+        "alt": "Lunar surface view associated with Korolev",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Korolev.jpg"
+      },
+      "description": "A large far-side crater with a broad, comparatively smooth interior and a complex impact history."
+    },
+    {
+      "name": "Jackson",
+      "latitude": 22.0,
+      "longitude": -163.3,
+      "diameter_km": 71,
+      "type": "Impact Crater",
+      "priority": 5,
+      "image": {
+        "alt": "Lunar surface view associated with Jackson",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Jackson.jpg"
+      },
+      "description": "A relatively young far-side crater with a bright ray system and sharply defined ejecta."
+    },
+    {
+      "name": "Ohm",
+      "latitude": 18.4,
+      "longitude": -113.5,
+      "diameter_km": 64,
+      "type": "Impact Crater",
+      "priority": 6,
+      "image": {
+        "alt": "Lunar surface view associated with Ohm",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Ohm.jpg"
+      },
+      "description": "A far-side crater with a complex floor, central peaks, and terraced inner walls."
+    },
+    {
+      "name": "Jules Verne",
+      "latitude": -35.0,
+      "longitude": 147.0,
+      "diameter_km": 149,
+      "type": "Impact Crater",
+      "priority": 4,
+      "image": {
+        "alt": "Lunar surface view associated with Jules Verne",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Jules_Verne.jpg"
+      },
+      "description": "A large crater in the southeastern far-side highlands, with a broad floor and several superposed features."
+    },
+    {
+      "name": "Gagarin",
+      "latitude": -20.2,
+      "longitude": 149.2,
+      "diameter_km": 265,
+      "type": "Impact Crater",
+      "priority": 3,
+      "image": {
+        "alt": "Lunar surface view associated with Gagarin",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Gagarin.jpg"
+      },
+      "description": "A large, ancient far-side crater named for Yuri Gagarin. Its interior is heavily modified by later impacts."
+    },
+    {
+      "name": "Mendeleev",
+      "latitude": 5.7,
+      "longitude": 140.9,
+      "diameter_km": 313,
+      "type": "Impact Crater",
+      "priority": 3,
+      "image": {
+        "alt": "Lunar surface view associated with Mendeleev",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mendeleev.jpg"
+      },
+      "description": "A large, degraded far-side crater containing numerous smaller impact craters across its floor."
+    },
+    {
+      "name": "Campbell",
+      "latitude": 45.6,
+      "longitude": 152.4,
+      "diameter_km": 210,
+      "type": "Impact Crater",
+      "priority": 5,
+      "image": {
+        "alt": "Lunar surface view associated with Campbell",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Campbell.jpg"
+      },
+      "description": "A large northern far-side crater with a complex interior and a heavily modified rim."
+    },
+    {
+      "name": "Schwarzschild",
+      "latitude": 70.0,
+      "longitude": 121.0,
+      "diameter_km": 211,
+      "type": "Impact Crater",
+      "priority": 4,
+      "image": {
+        "alt": "Lunar surface view associated with Schwarzschild",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Schwarzschild.jpg"
+      },
+      "description": "A large crater in the northern far-side highlands, with a broad floor and numerous smaller craterlets."
+    },
+    {
+      "name": "Lobachevsky",
+      "latitude": 9.8,
+      "longitude": 113.2,
+      "diameter_km": 87,
+      "type": "Impact Crater",
+      "priority": 7,
+      "image": {
+        "alt": "Lunar surface view associated with Lobachevsky",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Lobachevsky.jpg"
+      },
+      "description": "A far-side crater with a relatively subdued rim and a floor modified by later impacts."
+    },
+    {
+      "name": "Pasteur",
+      "latitude": -11.9,
+      "longitude": 104.0,
+      "diameter_km": 223,
+      "type": "Impact Crater",
+      "priority": 5,
+      "image": {
+        "alt": "Lunar surface view associated with Pasteur",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Pasteur.jpg"
+      },
+      "description": "A large, old far-side crater with a worn rim and a floor marked by overlapping impacts."
+    },
+    {
+      "name": "Planck",
+      "latitude": -57.9,
+      "longitude": 136.8,
+      "diameter_km": 319,
+      "type": "Impact Crater",
+      "priority": 3,
+      "image": {
+        "alt": "Lunar surface view associated with Planck",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Planck.jpg"
+      },
+      "description": "A huge southern far-side crater with a rugged, heavily cratered interior."
+    },
+    {
+      "name": "Poincaré",
+      "latitude": -56.7,
+      "longitude": -163.0,
+      "diameter_km": 319,
+      "type": "Impact Crater",
+      "priority": 4,
+      "image": {
+        "alt": "Lunar surface view associated with Poincaré",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Poincaré.jpg"
+      },
+      "description": "A large crater near the lunar south polar region, with a deeply battered rim and complex floor."
+    },
+    {
+      "name": "Leibnitz",
+      "latitude": -38.3,
+      "longitude": 179.2,
+      "diameter_km": 245,
+      "type": "Impact Crater",
+      "priority": 5,
+      "image": {
+        "alt": "Lunar surface view associated with Leibnitz",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Leibnitz.jpg"
+      },
+      "description": "A large southern far-side crater in a densely cratered region near the South Pole–Aitken terrain."
+    },
+    {
+      "name": "Finsen",
+      "latitude": 42.3,
+      "longitude": 177.7,
+      "diameter_km": 72,
+      "type": "Impact Crater",
+      "priority": 7,
+      "image": {
+        "alt": "Lunar surface view associated with Finsen",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Finsen.jpg"
+      },
+      "description": "A relatively fresh crater in the far-side highlands, with a distinct rim and ejecta pattern."
+    },
+    {
+      "name": "Kurchatov",
+      "latitude": 38.2,
+      "longitude": 141.4,
+      "diameter_km": 114,
+      "type": "Impact Crater",
+      "priority": 6,
+      "image": {
+        "alt": "Lunar surface view associated with Kurchatov",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Kurchatov.jpg"
+      },
+      "description": "A far-side crater with a complex interior and a floor partly modified by later impacts."
+    },
+    {
+      "name": "King",
+      "latitude": 5.0,
+      "longitude": 120.5,
+      "diameter_km": 77,
+      "type": "Impact Crater",
+      "priority": 6,
+      "image": {
+        "alt": "Lunar surface view associated with King",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "King.jpg"
+      },
+      "description": "A well-preserved far-side crater with terraced walls, central peaks, and a rugged ejecta blanket."
+    },
+    {
+      "name": "Harkhebi",
+      "latitude": 68.7,
+      "longitude": 98.7,
+      "diameter_km": 343,
+      "type": "Impact Crater",
+      "priority": 4,
+      "image": {
+        "alt": "Lunar surface view associated with Harkhebi",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Harkhebi.jpg"
+      },
+      "description": "A very large northern far-side crater with an irregular, degraded rim and a heavily cratered interior."
+    },
+    {
+      "name": "Aitken",
+      "latitude": -16.8,
+      "longitude": 173.4,
+      "diameter_km": 135,
+      "type": "Impact Crater",
+      "priority": 7,
+      "image": {
+        "alt": "Lunar surface view associated with Aitken",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Aitken.jpg"
+      },
+      "description": "A large crater in the southern far-side highlands, within the broader South Pole–Aitken region."
+    },
+    {
+      "name": "D'Alembert",
+      "latitude": 51.8,
+      "longitude": 164.0,
+      "diameter_km": 248,
+      "type": "Impact Crater",
+      "priority": 5,
+      "image": {
+        "alt": "Lunar surface view associated with D'Alembert",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "D'Alembert.jpg"
+      },
+      "description": "A large northern far-side crater with a worn rim and a floor containing smaller superposed craters."
+    }
+  ],
+  "maria": [
+    {
+      "name": "Mare Imbrium",
+      "latitude": 32.8,
+      "longitude": -15.6,
+      "diameter_km": 1123,
+      "type": "Lunar Mare",
+      "priority": 1,
+      "description": "One of the largest impact basins on the near side. It was flooded by ancient basaltic lava, creating broad, relatively smooth dark plains.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Imbrium",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Imbrium.jpg"
+      }
+    },
+    {
+      "name": "Mare Tranquillitatis",
+      "latitude": 8.35,
+      "longitude": 31.4,
+      "diameter_km": 873,
+      "type": "Lunar Mare",
+      "priority": 1,
+      "description": "The Sea of Tranquility is a large basaltic plain and the historic Apollo 11 landing region.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Tranquillitatis",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Tranquillitatis.jpg"
+      }
+    },
+    {
+      "name": "Mare Serenitatis",
+      "latitude": 28.0,
+      "longitude": 17.5,
+      "diameter_km": 707,
+      "type": "Lunar Mare",
+      "priority": 1,
+      "description": "The Sea of Serenity is a large volcanic basin with smooth basaltic plains and complex surrounding mountain structures.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Serenitatis",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Serenitatis.jpg"
+      }
+    },
+    {
+      "name": "Mare Crisium",
+      "latitude": 17.0,
+      "longitude": 59.1,
+      "diameter_km": 570,
+      "type": "Lunar Mare",
+      "priority": 1,
+      "description": "The Sea of Crises is a distinctive, nearly circular impact basin on the northeastern near side.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Crisium",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Crisium.jpg"
+      }
+    },
+    {
+      "name": "Oceanus Procellarum",
+      "latitude": 18.4,
+      "longitude": -57.4,
+      "diameter_km": 2568,
+      "type": "Lunar Ocean",
+      "priority": 1,
+      "description": "The Ocean of Storms is the largest expanse of lunar basaltic plains, covering much of the western near side.",
+      "image": {
+        "alt": "Lunar surface view associated with Oceanus Procellarum",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Oceanus_Procellarum.jpg"
+      }
+    },
+    {
+      "name": "Mare Nubium",
+      "latitude": -21.3,
+      "longitude": -16.6,
+      "diameter_km": 715,
+      "type": "Lunar Mare",
+      "priority": 2,
+      "description": "The Sea of Clouds is an ancient basaltic plain in the southern near side.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Nubium",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Nubium.jpg"
+      }
+    },
+    {
+      "name": "Mare Fecunditatis",
+      "latitude": -7.8,
+      "longitude": 51.3,
+      "diameter_km": 840,
+      "type": "Lunar Mare",
+      "priority": 1,
+      "description": "The Sea of Fertility is a large basaltic plain in the southeastern near side.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Fecunditatis",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Fecunditatis.jpg"
+      }
+    },
+    {
+      "name": "Mare Nectaris",
+      "latitude": -15.2,
+      "longitude": 35.5,
+      "diameter_km": 350,
+      "type": "Lunar Mare",
+      "priority": 2,
+      "description": "The Sea of Nectar is a relatively small impact basin filled with ancient basaltic lava.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Nectaris",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Nectaris.jpg"
+      }
+    },
+    {
+      "name": "Mare Humorum",
+      "latitude": -24.4,
+      "longitude": -38.6,
+      "diameter_km": 389,
+      "type": "Lunar Mare",
+      "priority": 2,
+      "description": "The Sea of Moisture is a circular basalt-filled impact basin in the southwestern near side.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Humorum",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Humorum.jpg"
+      }
+    },
+    {
+      "name": "Mare Frigoris",
+      "latitude": 56.0,
+      "longitude": 1.4,
+      "diameter_km": 1596,
+      "type": "Lunar Mare",
+      "priority": 2,
+      "description": "The Sea of Cold is a long, dark plain extending across the northern Moon.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Frigoris",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Frigoris.jpg"
+      }
+    },
+    {
+      "name": "Mare Vaporum",
+      "latitude": 13.3,
+      "longitude": -3.6,
+      "diameter_km": 245,
+      "type": "Lunar Mare",
+      "priority": 3,
+      "description": "The Sea of Vapors is a small basaltic plain between major highland regions.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Vaporum",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Vaporum.jpg"
+      }
+    },
+    {
+      "name": "Mare Australe",
+      "latitude": -38.9,
+      "longitude": 93.0,
+      "diameter_km": 900,
+      "type": "Lunar Mare",
+      "priority": 3,
+      "description": "The Southern Sea is an irregular region of basaltic deposits near the southeastern limb.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Australe",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Australe.jpg"
+      }
+    },
+    {
+      "name": "Mare Smythii",
+      "latitude": 1.0,
+      "longitude": 87.0,
+      "diameter_km": 373,
+      "type": "Lunar Mare",
+      "priority": 3,
+      "description": "A near-equatorial mare near the eastern limb, straddling the boundary between near and far sides.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Smythii",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Smythii.jpg"
+      }
+    },
+    {
+      "name": "Mare Marginis",
+      "latitude": 13.3,
+      "longitude": 86.1,
+      "diameter_km": 420,
+      "type": "Lunar Mare",
+      "priority": 3,
+      "description": "A patchy mare region near the eastern limb, with unusual swirls and irregular basalt deposits.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Marginis",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Marginis.jpg"
+      }
+    },
+    {
+      "name": "Mare Spumans",
+      "latitude": 1.1,
+      "longitude": 65.3,
+      "diameter_km": 139,
+      "type": "Lunar Mare",
+      "priority": 4,
+      "description": "A small mare patch along the western edge of Mare Undarum.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Spumans",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Spumans.jpg"
+      }
+    },
+    {
+      "name": "Mare Undarum",
+      "latitude": 6.8,
+      "longitude": 68.4,
+      "diameter_km": 243,
+      "type": "Lunar Mare",
+      "priority": 4,
+      "description": "The Sea of Waves is a group of dark basaltic plains near Mare Crisium.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Undarum",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Undarum.jpg"
+      }
+    },
+    {
+      "name": "Mare Insularum",
+      "latitude": 7.0,
+      "longitude": -30.0,
+      "diameter_km": 513,
+      "type": "Lunar Mare",
+      "priority": 3,
+      "description": "The Sea of Islands is a broad region of basaltic plains between Oceanus Procellarum and Mare Cognitum.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Insularum",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Insularum.jpg"
+      }
+    },
+    {
+      "name": "Mare Cognitum",
+      "latitude": -10.0,
+      "longitude": -23.0,
+      "diameter_km": 350,
+      "type": "Lunar Mare",
+      "priority": 3,
+      "description": "The Sea That Has Become Known is a basaltic plain explored by several robotic and crewed missions.",
+      "image": {
+        "alt": "Lunar surface view associated with Mare Cognitum",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Cognitum.jpg"
+      }
+    },
+    {
+      "name": "Lacus Mortis",
+      "latitude": 45.0,
+      "longitude": 27.2,
+      "diameter_km": 151,
+      "type": "Lunar Lake",
+      "priority": 4,
+      "description": "The Lake of Death is a dark basaltic plain north of Mare Serenitatis, crossed by fractures and rilles.",
+      "image": {
+        "alt": "Lunar surface view associated with Lacus Mortis",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Lacus_Mortis.jpg"
+      }
+    },
+    {
+      "name": "Lacus Somniorum",
+      "latitude": 38.0,
+      "longitude": 29.2,
+      "diameter_km": 384,
+      "type": "Lunar Lake",
+      "priority": 4,
+      "description": "The Lake of Dreams is an irregular dark plain northeast of Mare Serenitatis.",
+      "image": {
+        "alt": "Lunar surface view associated with Lacus Somniorum",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Lacus_Somniorum.jpg"
+      }
+    },
+    {
+      "name": "Lacus Excellentiae",
+      "latitude": -35.4,
+      "longitude": -44.0,
+      "diameter_km": 184,
+      "type": "Lunar Lake",
+      "priority": 5,
+      "description": "The Lake of Excellence is a small dark plain in the southwestern lunar highlands.",
+      "image": {
+        "alt": "Lunar surface view associated with Lacus Excellentiae",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Lacus_Excellentiae.jpg"
+      }
+    },
+    {
+      "name": "Sinus Iridum",
+      "latitude": 44.1,
+      "longitude": -31.5,
+      "diameter_km": 236,
+      "type": "Lunar Bay",
+      "priority": 2,
+      "description": "The Bay of Rainbows is a semicircular impact feature on the northwestern edge of Mare Imbrium.",
+      "image": {
+        "alt": "Lunar surface view associated with Sinus Iridum",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Sinus_Iridum.jpg"
+      }
+    },
+    {
+      "name": "Sinus Medii",
+      "latitude": 1.6,
+      "longitude": 0.0,
+      "diameter_km": 335,
+      "type": "Lunar Bay",
+      "priority": 2,
+      "description": "The Bay of the Center lies near the center of the lunar near side.",
+      "image": {
+        "alt": "Lunar surface view associated with Sinus Medii",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Sinus_Medii.jpg"
+      }
+    },
+    {
+      "name": "Sinus Aestuum",
+      "latitude": 12.0,
+      "longitude": -8.0,
+      "diameter_km": 290,
+      "type": "Lunar Bay",
+      "priority": 3,
+      "description": "The Bay of Seething is a dark volcanic plain south of Mare Imbrium.",
+      "image": {
+        "alt": "Lunar surface view associated with Sinus Aestuum",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Sinus_Aestuum.jpg"
+      }
+    },
+    {
+      "name": "Sinus Roris",
+      "latitude": 54.0,
+      "longitude": -56.0,
+      "diameter_km": 202,
+      "type": "Lunar Bay",
+      "priority": 4,
+      "description": "The Bay of Dew is a dark plain near the northwestern limb.",
+      "image": {
+        "alt": "Lunar surface view associated with Sinus Roris",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Sinus_Roris.jpg"
+      }
+    },
+    {
+      "name": "Mare Moscoviense",
+      "latitude": 27.3,
+      "longitude": 147.0,
+      "diameter_km": 277,
+      "type": "Lunar Mare",
+      "priority": 2,
+      "image": {
+        "alt": "Lunar surface view associated with Mare Moscoviense",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Moscoviense.jpg"
+      },
+      "description": "One of the few substantial basaltic maria on the lunar far side, occupying an ancient impact basin."
+    },
+    {
+      "name": "Mare Ingenii",
+      "latitude": -33.7,
+      "longitude": 163.5,
+      "diameter_km": 280,
+      "type": "Lunar Mare",
+      "priority": 2,
+      "image": {
+        "alt": "Lunar surface view associated with Mare Ingenii",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Ingenii.jpg"
+      },
+      "description": "A far-side mare with dark volcanic deposits and nearby lunar swirls, located within the South Pole–Aitken region."
+    },
+    {
+      "name": "Mare Orientale",
+      "latitude": -19.4,
+      "longitude": -92.8,
+      "diameter_km": 930,
+      "type": "Lunar Mare",
+      "priority": 1,
+      "image": {
+        "alt": "Lunar surface view associated with Mare Orientale",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mare_Orientale.jpg"
+      },
+      "description": "A spectacular multi-ring impact basin on the western limb, with a central mare and concentric mountain rings."
+    },
+    {
+      "name": "Lacus Luxuriae",
+      "latitude": 19.0,
+      "longitude": 176.0,
+      "diameter_km": 80,
+      "type": "Lunar Lake",
+      "priority": 8,
+      "image": {
+        "alt": "Lunar surface view associated with Lacus Luxuriae",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Lacus_Luxuriae.jpg"
+      },
+      "description": "A small dark mare-like deposit in the far-side highlands."
+    },
+    {
+      "name": "Lacus Solitudinis",
+      "latitude": -27.8,
+      "longitude": 104.3,
+      "diameter_km": 139,
+      "type": "Lunar Lake",
+      "priority": 6,
+      "image": {
+        "alt": "Lunar surface view associated with Lacus Solitudinis",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Lacus_Solitudinis.jpg"
+      },
+      "description": "A small, isolated dark plain near the southeastern limb, surrounded by rugged highland terrain."
+    }
+  ],
+  "mountains": [
+    {
+      "name": "Montes Apenninus",
+      "latitude": 18.9,
+      "longitude": -3.7,
+      "diameter_km": 600,
+      "type": "Mountain Range",
+      "priority": 2,
+      "description": "A large mountainous range forming part of the southeastern boundary of Mare Imbrium.",
+      "image": {
+        "alt": "Lunar surface view associated with Montes Apenninus",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Montes_Apenninus.jpg"
+      }
+    },
+    {
+      "name": "Montes Alpes",
+      "latitude": 48.0,
+      "longitude": 0.0,
+      "diameter_km": 250,
+      "type": "Mountain Range",
+      "priority": 3,
+      "description": "A prominent mountain range bordering the northeastern edge of Mare Imbrium. Vallis Alpes cuts through the range.",
+      "image": {
+        "alt": "Lunar surface view associated with Montes Alpes",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Montes_Alpes.jpg"
+      }
+    },
+    {
+      "name": "Montes Caucasus",
+      "latitude": 38.4,
+      "longitude": 10.0,
+      "diameter_km": 445,
+      "type": "Mountain Range",
+      "priority": 3,
+      "description": "A rugged mountainous region between Mare Imbrium and Mare Serenitatis.",
+      "image": {
+        "alt": "Lunar surface view associated with Montes Caucasus",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Montes_Caucasus.jpg"
+      }
+    },
+    {
+      "name": "Mons Huygens",
+      "latitude": 19.9,
+      "longitude": -2.9,
+      "diameter_km": 40,
+      "type": "Lunar Mountain",
+      "priority": 5,
+      "description": "One of the tallest mountains on the near side, located within Montes Apenninus.",
+      "image": {
+        "alt": "Lunar surface view associated with Mons Huygens",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mons_Huygens.jpg"
+      }
+    },
+    {
+      "name": "Mons Hadley",
+      "latitude": 26.5,
+      "longitude": 4.7,
+      "diameter_km": 25,
+      "type": "Lunar Mountain",
+      "priority": 5,
+      "description": "A mountain near the Apollo 15 landing region and Hadley Rille.",
+      "image": {
+        "alt": "Lunar surface view associated with Mons Hadley",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mons_Hadley.jpg"
+      }
+    },
+    {
+      "name": "Montes Jura",
+      "latitude": 47.0,
+      "longitude": -34.0,
+      "diameter_km": 430,
+      "type": "Mountain Range",
+      "priority": 4,
+      "description": "A rugged arc of mountains forming much of the rim of Sinus Iridum.",
+      "image": {
+        "alt": "Lunar surface view associated with Montes Jura",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Montes_Jura.jpg"
+      }
+    },
+    {
+      "name": "Montes Carpatus",
+      "latitude": 14.0,
+      "longitude": -24.0,
+      "diameter_km": 360,
+      "type": "Mountain Range",
+      "priority": 4,
+      "description": "A mountain range along the southern edge of Mare Imbrium.",
+      "image": {
+        "alt": "Lunar surface view associated with Montes Carpatus",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Montes_Carpatus.jpg"
+      }
+    },
+    {
+      "name": "Montes Taurus",
+      "latitude": 28.0,
+      "longitude": 40.0,
+      "diameter_km": 170,
+      "type": "Mountain Range",
+      "priority": 4,
+      "description": "A rugged highland region northeast of Mare Serenitatis.",
+      "image": {
+        "alt": "Lunar surface view associated with Montes Taurus",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Montes_Taurus.jpg"
+      }
+    },
+    {
+      "name": "Mons Pico",
+      "latitude": 45.7,
+      "longitude": -8.9,
+      "diameter_km": 25,
+      "type": "Lunar Mountain",
+      "priority": 7,
+      "description": "An isolated mountain rising from the northern part of Mare Imbrium.",
+      "image": {
+        "alt": "Lunar surface view associated with Mons Pico",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mons_Pico.jpg"
+      }
+    },
+    {
+      "name": "Mons Piton",
+      "latitude": 40.6,
+      "longitude": -1.1,
+      "diameter_km": 25,
+      "type": "Lunar Mountain",
+      "priority": 7,
+      "description": "An isolated peak in Mare Imbrium, prominent under low-angle sunlight.",
+      "image": {
+        "alt": "Lunar surface view associated with Mons Piton",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mons_Piton.jpg"
+      }
+    },
+    {
+      "name": "Mons Pico Beta",
+      "latitude": 46.0,
+      "longitude": -9.5,
+      "diameter_km": 8,
+      "type": "Lunar Mountain",
+      "priority": 13,
+      "description": "A smaller neighboring peak in the Mons Pico region.",
+      "image": {
+        "alt": "Lunar surface view associated with Mons Pico Beta",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mons_Pico_Beta.jpg"
+      }
+    },
+    {
+      "name": "Mons Rümker",
+      "latitude": 40.8,
+      "longitude": -58.1,
+      "diameter_km": 70,
+      "type": "Volcanic Complex",
+      "priority": 5,
+      "description": "A broad volcanic complex made up of numerous domes in northern Oceanus Procellarum.",
+      "image": {
+        "alt": "Lunar surface view associated with Mons Rümker",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mons_Rümker.jpg"
+      }
+    },
+    {
+      "name": "Mons Agnes",
+      "latitude": 18.6,
+      "longitude": 5.3,
+      "diameter_km": 1.5,
+      "type": "Lunar Mountain",
+      "priority": 16,
+      "description": "A small volcanic dome in Mare Imbrium, visible at high resolution.",
+      "image": {
+        "alt": "Lunar surface view associated with Mons Agnes",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mons_Agnes.jpg"
+      }
+    },
+    {
+      "name": "Montes Rook",
+      "latitude": -20.0,
+      "longitude": -92.0,
+      "diameter_km": 500,
+      "type": "Mountain Range",
+      "priority": 4,
+      "image": {
+        "alt": "Lunar surface view associated with Montes Rook",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Montes_Rook.jpg"
+      },
+      "description": "A mountainous ring associated with the immense Orientale impact basin, marking part of its multi-ring structure."
+    },
+    {
+      "name": "Montes Cordillera",
+      "latitude": -17.0,
+      "longitude": -104.0,
+      "diameter_km": 500,
+      "type": "Mountain Range",
+      "priority": 4,
+      "image": {
+        "alt": "Lunar surface view associated with Montes Cordillera",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Montes_Cordillera.jpg"
+      },
+      "description": "The outer mountainous ring of the Orientale basin, forming a broad arc around the impact structure."
+    },
+    {
+      "name": "Mons Rümker Far-side Region",
+      "latitude": 40.8,
+      "longitude": -58.1,
+      "diameter_km": 70,
+      "type": "Volcanic Complex",
+      "priority": 12,
+      "image": {
+        "alt": "Lunar surface view associated with Mons Rümker Far-side Region",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mons_Rümker_Far-side_Region.jpg"
+      },
+      "description": "Placeholder regional entry retained for volcanic context; Mons Rümker itself is on the near side."
+    }
+  ],
+  "valleys_and_rilles": [
+    {
+      "name": "Vallis Alpes",
+      "latitude": 49.0,
+      "longitude": 3.0,
+      "diameter_km": 166,
+      "type": "Lunar Valley",
+      "priority": 4,
+      "description": "A long valley cutting through Montes Alpes. A narrow sinuous rille runs along part of its floor.",
+      "image": {
+        "alt": "Lunar surface view associated with Vallis Alpes",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Vallis_Alpes.jpg"
+      }
+    },
+    {
+      "name": "Vallis Schröteri",
+      "latitude": 26.2,
+      "longitude": -50.8,
+      "diameter_km": 168,
+      "type": "Sinuous Rille",
+      "priority": 4,
+      "description": "A prominent sinuous valley on the Aristarchus Plateau, associated with ancient volcanic activity.",
+      "image": {
+        "alt": "Lunar surface view associated with Vallis Schröteri",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Vallis_Schröteri.jpg"
+      }
+    },
+    {
+      "name": "Rima Hadley",
+      "latitude": 25.0,
+      "longitude": 3.0,
+      "diameter_km": 120,
+      "type": "Lunar Rille",
+      "priority": 3,
+      "description": "A sinuous rille explored by Apollo 15 near the foot of Mons Hadley.",
+      "image": {
+        "alt": "Lunar surface view associated with Rima Hadley",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Rima_Hadley.jpg"
+      }
+    },
+    {
+      "name": "Rima Ariadaeus",
+      "latitude": 6.4,
+      "longitude": 14.0,
+      "diameter_km": 220,
+      "type": "Linear Rille",
+      "priority": 4,
+      "description": "A long, relatively straight graben-like rille near the center of the near side.",
+      "image": {
+        "alt": "Lunar surface view associated with Rima Ariadaeus",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Rima_Ariadaeus.jpg"
+      }
+    },
+    {
+      "name": "Rima Hyginus",
+      "latitude": 7.8,
+      "longitude": -6.3,
+      "diameter_km": 220,
+      "type": "Lunar Rille",
+      "priority": 5,
+      "description": "A rille system containing the distinctive volcanic feature known as the Hyginus crater.",
+      "image": {
+        "alt": "Lunar surface view associated with Rima Hyginus",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Rima_Hyginus.jpg"
+      }
+    },
+    {
+      "name": "Rima Birt",
+      "latitude": -22.4,
+      "longitude": -8.5,
+      "diameter_km": 50,
+      "type": "Lunar Rille",
+      "priority": 8,
+      "description": "A short rille near the Straight Wall and crater Birt.",
+      "image": {
+        "alt": "Lunar surface view associated with Rima Birt",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Rima_Birt.jpg"
+      }
+    },
+    {
+      "name": "Vallis Rheita",
+      "latitude": -42.5,
+      "longitude": 51.5,
+      "diameter_km": 445,
+      "type": "Lunar Valley",
+      "priority": 5,
+      "description": "A long chain-like valley in the southeastern highlands, formed by overlapping impact structures.",
+      "image": {
+        "alt": "Lunar surface view associated with Vallis Rheita",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Vallis_Rheita.jpg"
+      }
+    },
+    {
+      "name": "Vallis Schröteri Branch",
+      "latitude": 25.5,
+      "longitude": -49.0,
+      "diameter_km": 35,
+      "type": "Lunar Valley",
+      "priority": 11,
+      "description": "A smaller branch of the complex volcanic valley system on the Aristarchus Plateau.",
+      "image": {
+        "alt": "Lunar surface view associated with Vallis Schröteri Branch",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Vallis_Schröteri_Branch.jpg"
+      }
+    },
+    {
+      "name": "Rima Sirsalis",
+      "latitude": -12.5,
+      "longitude": -60.0,
+      "diameter_km": 330,
+      "type": "Linear Rille",
+      "priority": 6,
+      "description": "A long linear rille extending through the western near-side highlands.",
+      "image": {
+        "alt": "Lunar surface view associated with Rima Sirsalis",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Rima_Sirsalis.jpg"
+      }
+    },
+    {
+      "name": "Rimae Triesnecker",
+      "latitude": 4.0,
+      "longitude": 3.5,
+      "diameter_km": 200,
+      "type": "Lunar Rille System",
+      "priority": 7,
+      "description": "A network of narrow rilles near the crater Triesnecker.",
+      "image": {
+        "alt": "Lunar surface view associated with Rimae Triesnecker",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Rimae_Triesnecker.jpg"
+      }
+    },
+    {
+      "name": "Vallis Planck",
+      "latitude": -57.0,
+      "longitude": 135.0,
+      "diameter_km": 120,
+      "type": "Lunar Valley",
+      "priority": 9,
+      "image": {
+        "alt": "Lunar surface view associated with Vallis Planck",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Vallis_Planck.jpg"
+      },
+      "description": "A valley-like feature in the rugged highlands near the large Planck crater."
+    },
+    {
+      "name": "Vallis Baade",
+      "latitude": -45.0,
+      "longitude": -83.0,
+      "diameter_km": 200,
+      "type": "Lunar Valley",
+      "priority": 8,
+      "image": {
+        "alt": "Lunar surface view associated with Vallis Baade",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Vallis_Baade.jpg"
+      },
+      "description": "A broad valley region near the southwestern limb and the Orientale basin terrain."
+    }
+  ],
+  "scarps_and_ridges": [
+    {
+      "name": "Rupes Recta",
+      "latitude": -22.1,
+      "longitude": -7.8,
+      "diameter_km": 110,
+      "type": "Lunar Scarp",
+      "priority": 3,
+      "description": "The Straight Wall is a prominent linear fault scarp in Mare Nubium, casting a long shadow at low Sun angles.",
+      "image": {
+        "alt": "Lunar surface view associated with Rupes Recta",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Rupes_Recta.jpg"
+      }
+    },
+    {
+      "name": "Dorsum Buckland",
+      "latitude": -20.0,
+      "longitude": -15.0,
+      "diameter_km": 100,
+      "type": "Wrinkle Ridge",
+      "priority": 9,
+      "description": "A low, sinuous wrinkle ridge in Mare Nubium.",
+      "image": {
+        "alt": "Lunar surface view associated with Dorsum Buckland",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Dorsum_Buckland.jpg"
+      }
+    },
+    {
+      "name": "Dorsum Oppel",
+      "latitude": 18.0,
+      "longitude": 18.0,
+      "diameter_km": 150,
+      "type": "Wrinkle Ridge",
+      "priority": 10,
+      "description": "A wrinkle ridge in the basaltic plains of the eastern near side.",
+      "image": {
+        "alt": "Lunar surface view associated with Dorsum Oppel",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Dorsum_Oppel.jpg"
+      }
+    },
+    {
+      "name": "Serpentine Ridge",
+      "latitude": 25.0,
+      "longitude": 18.0,
+      "diameter_km": 200,
+      "type": "Wrinkle Ridge",
+      "priority": 7,
+      "description": "A prominent curved wrinkle ridge in Mare Serenitatis.",
+      "image": {
+        "alt": "Lunar surface view associated with Serpentine Ridge",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Serpentine_Ridge.jpg"
+      }
+    },
+    {
+      "name": "Altai Scarp",
+      "latitude": -24.0,
+      "longitude": 23.0,
+      "diameter_km": 427,
+      "type": "Lunar Scarp",
+      "priority": 4,
+      "description": "A long arcuate scarp marking part of the rim of the Nectaris basin.",
+      "image": {
+        "alt": "Lunar surface view associated with Altai Scarp",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Altai_Scarp.jpg"
+      }
+    },
+    {
+      "name": "Humboldtianum Basin Rim",
+      "latitude": 56.0,
+      "longitude": 81.0,
+      "diameter_km": 600,
+      "type": "Basin Rim",
+      "priority": 7,
+      "description": "A broad basin rim near the northeastern limb, surrounding Mare Humboldtianum.",
+      "image": {
+        "alt": "Lunar surface view associated with Humboldtianum Basin Rim",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Humboldtianum_Basin_Rim.jpg"
+      }
+    },
+    {
+      "name": "Northwest-Southeast Ridge, Mare Moscoviense",
+      "latitude": 26.0,
+      "longitude": 145.0,
+      "diameter_km": 100,
+      "type": "Wrinkle Ridge",
+      "priority": 12,
+      "image": {
+        "alt": "Lunar surface view associated with Northwest-Southeast Ridge, Mare Moscoviense",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Northwest-Southeast_Ridge,_Mare_Moscoviense.jpg"
+      },
+      "description": "A low-relief ridge feature in the basaltic plains of Mare Moscoviense."
+    }
+  ],
+  "landing_sites": [
+    {
+      "name": "Apollo 11",
+      "latitude": 0.674,
+      "longitude": 23.473,
+      "diameter_km": 0.0,
+      "type": "Crewed Landing Site",
+      "priority": 2,
+      "description": "Historic landing site of Apollo 11 on July 20, 1969, in Mare Tranquillitatis. Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon.",
+      "image": {
+        "alt": "Lunar surface view associated with Apollo 11",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Apollo_11.jpg"
+      }
+    },
+    {
+      "name": "Apollo 12 / Surveyor 3",
+      "latitude": -3.012,
+      "longitude": -23.421,
+      "diameter_km": 0.0,
+      "type": "Crewed Landing Site",
+      "priority": 3,
+      "description": "Landing site of Surveyor 3 followed by Apollo 12 in Oceanus Procellarum in November 1969. The mission demonstrated precision landing capabilities.",
+      "image": {
+        "alt": "Lunar surface view associated with Apollo 12",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Apollo_12_Surveyor_3.jpg"
+      }
+    },
+    {
+      "name": "Apollo 14",
+      "latitude": -3.645,
+      "longitude": -17.471,
+      "diameter_km": 0.0,
+      "type": "Crewed Landing Site",
+      "priority": 3,
+      "description": "Landing site of Apollo 14 near the Fra Mauro formation in February 1971. The crew explored ancient impact ejecta.",
+      "image": {
+        "alt": "Lunar surface view associated with Apollo 14",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Apollo_14.jpg"
+      }
+    },
+    {
+      "name": "Apollo 15",
+      "latitude": 26.132,
+      "longitude": 3.634,
+      "diameter_km": 0.0,
+      "type": "Crewed Landing Site",
+      "priority": 2,
+      "description": "Landing site of Apollo 15 near Hadley Rille and Montes Apenninus in July 1971. The mission was the first to use the Lunar Roving Vehicle.",
+      "image": {
+        "alt": "Lunar surface view associated with Apollo 15",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Apollo_15.jpg"
+      }
+    },
+    {
+      "name": "Apollo 16",
+      "latitude": -8.973,
+      "longitude": 15.501,
+      "diameter_km": 0.0,
+      "type": "Crewed Landing Site",
+      "priority": 3,
+      "description": "Landing site of Apollo 16 in the Descartes Highlands in April 1972, where the crew investigated ancient highland geology.",
+      "image": {
+        "alt": "Lunar surface view associated with Apollo 16",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Apollo_16.jpg"
+      }
+    },
+    {
+      "name": "Apollo 17",
+      "latitude": 20.19,
+      "longitude": 30.772,
+      "diameter_km": 0.0,
+      "type": "Crewed Landing Site",
+      "priority": 2,
+      "description": "Landing site of Apollo 17 in the Taurus-Littrow valley in December 1972. It was the final crewed Apollo lunar landing.",
+      "image": {
+        "alt": "Lunar surface view associated with Apollo 17",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Apollo_17.jpg"
+      }
+    },
+    {
+      "name": "Luna 9",
+      "latitude": 7.13,
+      "longitude": -64.37,
+      "diameter_km": 0.0,
+      "type": "Robotic Landing Site",
+      "priority": 5,
+      "description": "Landing site of Luna 9, which achieved the first successful soft landing on the Moon in February 1966.",
+      "image": {
+        "alt": "Lunar surface view associated with Luna 9",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Luna_9.jpg"
+      }
+    },
+    {
+      "name": "Luna 16",
+      "latitude": -0.68,
+      "longitude": 56.3,
+      "diameter_km": 0.0,
+      "type": "Robotic Landing Site",
+      "priority": 5,
+      "description": "Landing site of the Soviet Luna 16 mission, which returned the first robotic lunar soil sample to Earth.",
+      "image": {
+        "alt": "Lunar surface view associated with Luna 16",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Luna_16.jpg"
+      }
+    },
+    {
+      "name": "Luna 17",
+      "latitude": 38.28,
+      "longitude": -35.0,
+      "diameter_km": 0.0,
+      "type": "Robotic Landing Site",
+      "priority": 5,
+      "description": "Landing site of Luna 17, which delivered the Lunokhod 1 rover to the lunar surface.",
+      "image": {
+        "alt": "Lunar surface view associated with Luna 17",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Luna_17.jpg"
+      }
+    },
+    {
+      "name": "Luna 20",
+      "latitude": 3.79,
+      "longitude": 56.62,
+      "diameter_km": 0.0,
+      "type": "Robotic Landing Site",
+      "priority": 6,
+      "description": "Landing site of Luna 20, a robotic sample-return mission in the lunar highlands.",
+      "image": {
+        "alt": "Lunar surface view associated with Luna 20",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Luna_20.jpg"
+      }
+    },
+    {
+      "name": "Luna 24",
+      "latitude": 12.75,
+      "longitude": 62.2,
+      "diameter_km": 0.0,
+      "type": "Robotic Landing Site",
+      "priority": 6,
+      "description": "Landing site of Luna 24, which returned lunar soil samples from Mare Crisium in 1976.",
+      "image": {
+        "alt": "Lunar surface view associated with Luna 24",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Luna_24.jpg"
+      }
+    },
+    {
+      "name": "Surveyor 1",
+      "latitude": 2.45,
+      "longitude": -43.22,
+      "diameter_km": 0.0,
+      "type": "Robotic Landing Site",
+      "priority": 6,
+      "description": "Landing site of Surveyor 1, the first U.S. spacecraft to make a successful soft landing on the Moon.",
+      "image": {
+        "alt": "Lunar surface view associated with Surveyor 1",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Surveyor_1.jpg"
+      }
+    },
+    {
+      "name": "Chang'e 3",
+      "latitude": 44.12,
+      "longitude": -19.51,
+      "diameter_km": 0.0,
+      "type": "Robotic Landing Site",
+      "priority": 5,
+      "description": "Landing site of China's Chang'e 3 mission, which delivered the Yutu rover to the Moon in 2013.",
+      "image": {
+        "alt": "Lunar surface view associated with Chang'e 3",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Chang'e_3.jpg"
+      }
+    },
+    {
+      "name": "Chang'e 4",
+      "latitude": -45.46,
+      "longitude": 177.59,
+      "diameter_km": 0.0,
+      "type": "Robotic Landing Site",
+      "priority": 4,
+      "description": "Landing site of the first successful soft landing on the lunar far side, in Von Kármán crater.",
+      "image": {
+        "alt": "Lunar surface view associated with Chang'e 4",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Chang'e_4.jpg"
+      }
+    },
+    {
+      "name": "Chang'e 5",
+      "latitude": 43.06,
+      "longitude": -51.92,
+      "diameter_km": 0.0,
+      "type": "Robotic Landing Site",
+      "priority": 5,
+      "description": "Landing region of China's Chang'e 5 sample-return mission in northern Oceanus Procellarum.",
+      "image": {
+        "alt": "Lunar surface view associated with Chang'e 5",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Chang'e_5.jpg"
+      }
+    },
+    {
+      "name": "Chandrayaan-3",
+      "latitude": -69.37,
+      "longitude": 32.32,
+      "diameter_km": 0.0,
+      "type": "Robotic Landing Site",
+      "priority": 4,
+      "description": "Landing site of India's Chandrayaan-3 Vikram lander near the lunar south pole region in 2023.",
+      "image": {
+        "alt": "Lunar surface view associated with Chandrayaan-3",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Chandrayaan-3.jpg"
+      }
+    },
+    {
+      "name": "SLIM",
+      "latitude": -13.32,
+      "longitude": 25.23,
+      "diameter_km": 0.0,
+      "type": "Robotic Landing Site",
+      "priority": 6,
+      "description": "Landing site of Japan's SLIM spacecraft near the crater Shioli in January 2024.",
+      "image": {
+        "alt": "Lunar surface view associated with SLIM",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "SLIM.jpg"
+      }
+    },
+    {
+      "name": "Chang'e 6",
+      "latitude": -41.6,
+      "longitude": 153.9,
+      "diameter_km": 0.0,
+      "type": "Robotic Landing Site",
+      "priority": 2,
+      "image": {
+        "alt": "Lunar surface view associated with Chang'e 6",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Chang'e_6.jpg"
+      },
+      "description": "Landing site of China's Chang'e 6 mission in the Apollo basin region on the lunar far side. The mission returned the first samples collected from the far side."
+    },
+    {
+      "name": "Chang'e 4 / Yutu-2",
+      "latitude": -45.46,
+      "longitude": 177.59,
+      "diameter_km": 0.0,
+      "type": "Robotic Landing Site",
+      "priority": 2,
+      "image": {
+        "alt": "Lunar surface view associated with Chang'e 4 / Yutu-2",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Chang'e_4_Yutu-2.jpg"
+      },
+      "description": "Landing site in Von Kármán crater within the South Pole–Aitken Basin. Chang'e 4 achieved the first soft landing on the lunar far side and deployed the Yutu-2 rover."
+    }
+  ],
+  "impact_basins": [
+    {
+      "name": "Aitken Basin",
+      "latitude": -53.0,
+      "longitude": 169.0,
+      "diameter_km": 2400,
+      "type": "Impact Basin",
+      "priority": 1,
+      "image": {
+        "alt": "Lunar surface view associated with South Pole–Aitken Basin",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Aitken_Basin.jpg"
+      },
+      "description": "One of the largest and oldest known impact basins in the Solar System. It dominates much of the lunar southern far side and exposes deep crustal materials."
+    },
+    {
+      "name": "Hertzsprung Basin",
+      "latitude": 1.4,
+      "longitude": -128.7,
+      "diameter_km": 570,
+      "type": "Impact Basin",
+      "priority": 3,
+      "image": {
+        "alt": "Lunar surface view associated with Hertzsprung Basin",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Hertzsprung_Basin.jpg"
+      },
+      "description": "A large multi-ring impact basin on the far side, with a complex structure modified by later impacts."
+    },
+    {
+      "name": "Apollo Basin",
+      "latitude": -36.0,
+      "longitude": -151.0,
+      "diameter_km": 524,
+      "type": "Impact Basin",
+      "priority": 2,
+      "image": {
+        "alt": "Lunar surface view associated with Apollo Basin",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Apollo_Basin.jpg"
+      },
+      "description": "A large double-ring impact basin within the South Pole–Aitken region. China's Chang'e 6 landing area lies within this basin."
+    },
+    {
+      "name": "Mendel-Rydberg Basin",
+      "latitude": -50.0,
+      "longitude": -95.0,
+      "diameter_km": 630,
+      "type": "Impact Basin",
+      "priority": 5,
+      "image": {
+        "alt": "Lunar surface view associated with Mendel-Rydberg Basin",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Mendel-Rydberg_Basin.jpg"
+      },
+      "description": "A large degraded basin near the southwestern limb, with remnants of its ancient ring structure."
+    },
+    {
+      "name": "Moscoviense Basin",
+      "latitude": 27.0,
+      "longitude": 147.0,
+      "diameter_km": 445,
+      "type": "Impact Basin",
+      "priority": 3,
+      "image": {
+        "alt": "Lunar surface view associated with Moscoviense Basin",
+        "credit": "NASA/JPL/USGS (general lunar image; replace with feature-specific imagery where available)",
+        "filename": "Moscoviense_Basin.jpg"
+      },
+      "description": "An ancient impact basin containing Mare Moscoviense and several concentric topographic rings."
+    }
+  ]
+}
