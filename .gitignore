@@ -1,0 +1,105 @@
+
+############################################
+# Visual Studio
+############################################
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+*.sdf
+*.opensdf
+ipch/
+
+############################################
+# Build directories
+############################################
+
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+out/
+build/
+
+############################################
+# Compiled binaries
+############################################
+
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.obj
+
+############################################
+# CMake
+############################################
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+############################################
+# Temporary files
+############################################
+
+*.tmp
+*.log
+*.bak
+*.cache
+
+############################################
+# Windows
+############################################
+
+Thumbs.db
+Desktop.ini
+
+############################################
+# ReSharper
+############################################
+
+_ReSharper*/
+*.DotSettings.user
+
+############################################
+# Forge SDK - keep
+############################################
+
+!Forge/
+!Forge/**/
+
+!Forge/**/*.dll
+!Forge/**/*.lib
+!Forge/**/*.pdb
+!Forge/**/*.h
+!Forge/**/*.hpp
+
+############################################
+# Surface Label Data and Images - keep
+############################################
+
+!x64/
+!x64/Debug/
+
+!x64/Debug/data/
+!x64/Debug/data/**
+
+!x64/Debug/images/
+!x64/Debug/images/**
+
+!x64/Release/
+!x64/Release/data/
+!x64/Release/data/**
+
+!x64/Release/images/
+!x64/Release/images/**
